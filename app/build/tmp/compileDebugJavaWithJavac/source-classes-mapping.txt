@@ -1,0 +1,119 @@
+cordova/plugin/cardconnectplugin/cardconnectplugin/ApiBridgeImpl.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.ApiBridgeImpl
+ cordova.plugin.cardconnectplugin.cardconnectplugin.ApiBridgeImpl$1
+org/apache/cordova/device/Device.java
+ org.apache.cordova.device.Device
+io/ionic/keyboard/CDVIonicKeyboard.java
+ io.ionic.keyboard.CDVIonicKeyboard
+ io.ionic.keyboard.CDVIonicKeyboard$1
+ io.ionic.keyboard.CDVIonicKeyboard$2
+ io.ionic.keyboard.CDVIonicKeyboard$3
+ io.ionic.keyboard.CDVIonicKeyboard$3$1
+org/apache/cordova/splashscreen/SplashScreen.java
+ org.apache.cordova.splashscreen.SplashScreen
+ org.apache.cordova.splashscreen.SplashScreen$1
+ org.apache.cordova.splashscreen.SplashScreen$2
+ org.apache.cordova.splashscreen.SplashScreen$3
+ org.apache.cordova.splashscreen.SplashScreen$4
+ org.apache.cordova.splashscreen.SplashScreen$4$1
+ org.apache.cordova.splashscreen.SplashScreen$5
+ org.apache.cordova.splashscreen.SplashScreen$5$1
+ org.apache.cordova.splashscreen.SplashScreen$6
+ org.apache.cordova.splashscreen.SplashScreen$6$1
+ org.apache.cordova.splashscreen.SplashScreen$7
+io/ionic/starter/BuildConfig.java
+ io.ionic.starter.BuildConfig
+cordova/plugin/cardconnectplugin/cardconnectplugin/SharedPreferenceHelper.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SharedPreferenceHelper
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SharedPreferenceHelper$1
+io/ionic/starter/MainActivity.java
+ io.ionic.starter.MainActivity
+cordova/plugin/cardconnectplugin/cardconnectplugin/UrlFragmentDialog.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.UrlFragmentDialog
+ cordova.plugin.cardconnectplugin.cardconnectplugin.UrlFragmentDialog$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.UrlFragmentDialog$2
+cordova/plugin/cardconnectplugin/cardconnectplugin/SpinningDialogFragment.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SpinningDialogFragment
+org/apache/cordova/statusbar/StatusBar.java
+ org.apache.cordova.statusbar.StatusBar
+ org.apache.cordova.statusbar.StatusBar$1
+ org.apache.cordova.statusbar.StatusBar$2
+ org.apache.cordova.statusbar.StatusBar$3
+ org.apache.cordova.statusbar.StatusBar$4
+ org.apache.cordova.statusbar.StatusBar$5
+ org.apache.cordova.statusbar.StatusBar$6
+ org.apache.cordova.statusbar.StatusBar$7
+ org.apache.cordova.statusbar.StatusBar$8
+ org.apache.cordova.statusbar.StatusBar$9
+cordova/plugin/cardconnectplugin/cardconnectplugin/GsonUtils.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.GsonUtils
+com/ionicframework/cordova/webview/WebViewLocalServer.java
+ com.ionicframework.cordova.webview.WebViewLocalServer
+ com.ionicframework.cordova.webview.WebViewLocalServer$1
+ com.ionicframework.cordova.webview.WebViewLocalServer$2
+ com.ionicframework.cordova.webview.WebViewLocalServer$AssetHostingDetails
+ com.ionicframework.cordova.webview.WebViewLocalServer$LazyInputStream
+ com.ionicframework.cordova.webview.WebViewLocalServer$LollipopLazyInputStream
+ com.ionicframework.cordova.webview.WebViewLocalServer$PathHandler
+com/ionicframework/cordova/webview/UriMatcher.java
+ com.ionicframework.cordova.webview.UriMatcher
+cordova/plugin/cardconnectplugin/cardconnectplugin/SwiperControllerManager.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperControllerManager
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperControllerManager$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperControllerManager$2
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperControllerManager$3
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperControllerManager$4
+com/ionicframework/cordova/webview/IonicWebView.java
+ com.ionicframework.cordova.webview.IonicWebView
+ com.ionicframework.cordova.webview.IonicWebView$1
+com/ionicframework/cordova/webview/AndroidProtocolHandler.java
+ com.ionicframework.cordova.webview.AndroidProtocolHandler
+com/ionicframework/cordova/webview/IonicWebViewEngine.java
+ com.ionicframework.cordova.webview.IonicWebViewEngine
+ com.ionicframework.cordova.webview.IonicWebViewEngine$1
+ com.ionicframework.cordova.webview.IonicWebViewEngine$ServerClient
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+cordova/plugin/cardconnectplugin/cardconnectplugin/MainApp.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainApp
+cordova/plugin/cardconnectplugin/cardconnectplugin/BaseActivity.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.BaseActivity
+ cordova.plugin.cardconnectplugin.cardconnectplugin.BaseActivity$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.BaseActivity$2
+cordova/plugin/cardconnectplugin/cardconnectplugin/MainActivity.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$2
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$3
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$3$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$4
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$5
+ cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity$6
+cordova/plugin/cardconnectplugin/cardconnectplugin/cardconnectplugin.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.cardconnectplugin
+ cordova.plugin.cardconnectplugin.cardconnectplugin.cardconnectplugin$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.cardconnectplugin$2
+ cordova.plugin.cardconnectplugin.cardconnectplugin.cardconnectplugin$3
+ cordova.plugin.cardconnectplugin.cardconnectplugin.cardconnectplugin$4
+cordova/plugin/cardconnectplugin/cardconnectplugin/SwiperTestActivity.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestActivity
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestActivity$1
+cordova/plugin/cardconnectplugin/cardconnectplugin/BaseFragment.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.BaseFragment
+cordova/plugin/cardconnectplugin/cardconnectplugin/SwiperTestFragment.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment$1$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment$2
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment$3
+ cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestFragment$TokenListner
+cordova/plugin/cardconnectplugin/cardconnectplugin/CustomFlowActivity.java
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$1
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$2
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$3
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$4
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$5
+ cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity$6

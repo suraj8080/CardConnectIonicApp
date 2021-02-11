@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/boltsdk-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/jars/libs/bbdevice-android-3.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/jars/libs/bbdeviceotaapi-android-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/jars/libs/Universal_SDK_1.00.135.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/jars/libs/bbdevice-android-3.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/jars/libs/Universal_SDK_1.00.135.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d753e4cf7c8e64e4c516a271c008e164/jetified-boltsdk-release/jars/libs/bbdeviceotaapi-android-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

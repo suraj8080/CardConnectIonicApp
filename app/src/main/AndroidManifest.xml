@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest android:hardwareAccelerated="true" android:versionCode="1" android:versionName="0.0.1" package="io.ionic.starter" xmlns:android="http://schemas.android.com/apk/res/android">
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:maxSdkVersion="30" android:minSdkVersion="24" android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainApp" android:networkSecurityConfig="@xml/network_security_config" android:supportsRtl="true">
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode" android:label="@string/activity_name" android:launchMode="singleTop" android:name="MainActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar" android:windowSoftInputMode="adjustResize">
+            <intent-filter android:label="@string/launcher_name">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="CustomFlowActivity" android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:label="MainActivity" android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="SwiperTestActivity" android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="com.bolt.consumersdk.views.payment.accounts.PaymentAccountsActivity" android:theme="@style/ConsumerAppImplementer.Theme" />
+        <activity android:name="com.bolt.consumersdk.views.payment.createaccount.CreateAccountActivity" android:theme="@style/ConsumerAppImplementer.Theme" />
+        <activity android:name="com.bolt.consumersdk.views.payment.editaccount.EditAccountActivity" android:theme="@style/ConsumerAppImplementer.Theme" />
+        <activity android:name="com.bolt.consumersdk.androidpay.CConsumerConfirmationActivity" android:theme="@style/ConsumerAppImplementer.Translucent" />
+    </application>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+</manifest>

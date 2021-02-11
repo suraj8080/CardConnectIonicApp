@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.ionic.starter"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="1"
+6    android:versionName="0.0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+13        android:anyDensity="true"
+13-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+16        android:resizeable="true"
+16-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+17        android:smallScreens="true"
+17-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+18        android:xlargeScreens="true" />
+18-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+20-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:25:5-68
+21-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:25:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:26:5-74
+22-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:26:22-71
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:27:5-79
+23-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:27:22-76
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:5-71
+24-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:22-68
+25    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+25-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:5-80
+25-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:22-77
+26    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+26-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:5-80
+26-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:22-77
+27    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+27-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:5-71
+27-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:22-68
+28    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+28-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:15:5-84
+28-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:15:22-81
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:16:5-81
+29-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:16:22-78
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:18:5-79
+30-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:18:22-76
+31
+32    <uses-feature
+32-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:22:5-24:36
+33        android:name="android.hardware.usb.host"
+33-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:23:9-49
+34        android:required="false" />
+34-->[boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:24:9-33
+35
+36    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+37
+38    <application
+38-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-24:19
+39        android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainApp"
+39-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:175-248
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:22:18-86
+41        android:debuggable="true"
+42        android:extractNativeLibs="false"
+43        android:hardwareAccelerated="true"
+43-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+44        android:icon="@mipmap/ic_launcher"
+44-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-87
+45        android:label="@string/app_name"
+45-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:88-120
+46        android:maxSdkVersion="30"
+46-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:121-147
+47        android:minSdkVersion="24"
+47-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:148-174
+48        android:networkSecurityConfig="@xml/network_security_config"
+48-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:249-309
+49        android:supportsRtl="true"
+49-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:310-336
+50        android:testOnly="true" >
+51        <activity
+51-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+52            android:name="io.ionic.starter.MainActivity"
+52-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:205-232
+53            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+53-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-135
+54            android:label="@string/activity_name"
+54-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:136-173
+55            android:launchMode="singleTop"
+55-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:174-204
+56            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+56-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:233-295
+57            android:windowSoftInputMode="adjustResize" >
+57-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:296-338
+58            <intent-filter android:label="@string/launcher_name" >
+58-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+58-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+59                <action android:name="android.intent.action.MAIN" />
+59-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+59-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+61-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:9-198
+65            android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity"
+65-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:54-138
+66            android:label="CustomFlowActivity"
+66-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:19-53
+67            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+67-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:139-195
+68        <activity
+68-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:9-18:20
+69            android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity"
+69-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:48-126
+70            android:label="MainActivity"
+70-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:19-47
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+71-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:127-183
+72            <intent-filter>
+72-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:14:13-17:29
+73                <action android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity" />
+73-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:15:17-106
+73-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:15:25-103
+74
+75                <category android:name="android.intent.category.DEFAULT" />
+75-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:16:17-76
+75-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:16:27-73
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:9-198
+79            android:name="cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestActivity"
+79-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:54-138
+80            android:label="SwiperTestActivity"
+80-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:19-53
+81            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+81-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:139-195
+82        <activity
+82-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:9-156
+83            android:name="com.bolt.consumersdk.views.payment.accounts.PaymentAccountsActivity"
+83-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:19-101
+84            android:theme="@style/ConsumerAppImplementer.Theme" />
+84-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:102-153
+85        <activity
+85-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:9-159
+86            android:name="com.bolt.consumersdk.views.payment.createaccount.CreateAccountActivity"
+86-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:19-104
+87            android:theme="@style/ConsumerAppImplementer.Theme" />
+87-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:105-156
+88        <activity
+88-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:9-155
+89            android:name="com.bolt.consumersdk.views.payment.editaccount.EditAccountActivity"
+89-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:19-100
+90            android:theme="@style/ConsumerAppImplementer.Theme" />
+90-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:101-152
+91        <activity
+91-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:9-156
+92            android:name="com.bolt.consumersdk.androidpay.CConsumerConfirmationActivity"
+92-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:19-95
+93            android:theme="@style/ConsumerAppImplementer.Translucent" />
+93-->/home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:96-153
+94    </application>
+95
+96</manifest>
