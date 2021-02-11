@@ -14,8 +14,6 @@ import androidx.fragment.app.DialogFragment;
 
 import com.bolt.consumersdk.CCConsumer;
 
-import io.ionic.starter.R;
-
 public class UrlFragmentDialog extends DialogFragment {
     public final static String TAG = UrlFragmentDialog.class.getName();
 
@@ -34,7 +32,7 @@ public class UrlFragmentDialog extends DialogFragment {
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
 
-        View dialogView = View.inflate(getActivity(), R.layout.dialog_url, null);
+        View dialogView = View.inflate(getActivity(), getResourceId("dialog_url", "layout"), null);
         final EditText urlEditText = (EditText)dialogView.findViewById(getResourceId("edit_text_url","id"));
         urlEditText.setText(CCConsumer.getInstance().getApi().getEndPoint());
 

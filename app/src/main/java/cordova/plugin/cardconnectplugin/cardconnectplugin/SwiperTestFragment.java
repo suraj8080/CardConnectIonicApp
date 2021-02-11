@@ -25,8 +25,6 @@ import com.bolt.consumersdk.swiper.SwiperControllerListener;
 import com.bolt.consumersdk.swiper.enums.BatteryState;
 import com.bolt.consumersdk.swiper.enums.SwiperError;
 
-import io.ionic.starter.R;
-
 public class SwiperTestFragment extends BaseFragment {
     public static final String TAG = SwiperTestFragment.class.getSimpleName();
     private static final int PERMISSIONS_REQUEST_RECORD_AUDIO = 1;
@@ -47,7 +45,7 @@ public class SwiperTestFragment extends BaseFragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.fragment_swiper_test, container, false);
+        View v = inflater.inflate(getResourceId("fragment_swiper_test", "layout"), container, false);
         Activity activity = getActivity();
         try {
             tokenListner = (TokenListner)activity;
@@ -119,7 +117,7 @@ public class SwiperTestFragment extends BaseFragment {
                     try {
                     Log.d(TAG, "Swiper ready for card");
                     if (getActivity() != null)
-                        showSnackBarMessage(getString(R.string.ready_for_swipe));
+                        showSnackBarMessage(getString(getResourceId("ready_for_swipe", "string")));
                     }catch (Exception e){
                         e.printStackTrace();
                     }
@@ -129,7 +127,7 @@ public class SwiperTestFragment extends BaseFragment {
                 public void onSwiperConnected() {
                     try {
                     Log.d(TAG, "Swiper connected");
-                    mConnectionStateTextView.setText(R.string.connected);
+                    mConnectionStateTextView.setText(getResourceId("connected", "string"));
                     bConnected = true;
 
                     new Handler().postDelayed(new Runnable() {
@@ -149,7 +147,7 @@ public class SwiperTestFragment extends BaseFragment {
                 public void onSwiperDisconnected() {
                     try {
                     Log.d(TAG, "Swiper disconnected");
-                    mConnectionStateTextView.setText(R.string.disconnected);
+                    mConnectionStateTextView.setText(getResourceId("disconnected", "string"));
                     }catch (Exception e){
                         e.printStackTrace();
                     }

@@ -146,14 +146,14 @@ public abstract class BaseActivity extends AppCompatActivity {
     }
 
 
-    //getResources().getIdentifier("btn_close", "id", package_name);  // String in strings.xml or an identifier of a UI element
-    //getResources().getIdentifier("activity_main", "layout", package_name); // for layout id
-    //getResources().getIdentifier("nameOfDrawable", "drawable", this.getPackageName()); //for drawable id
+    /*getResources().getIdentifier("btn_close", "id", package_name);  // String in strings.xml or an identifier of a UI element
+    getResources().getIdentifier("activity_main", "layout", package_name); // for layout id
+    getResources().getIdentifier("nameOfDrawable", "drawable", this.getPackageName()); //for drawable id*/
     public static int resId;
     public int getResourceId(String resourceName, String resourceType){
         // eg: getResources().getIdentifier("com.my.app:drawable/my_image", null, null); // another way
         String package_name = getApplication().getPackageName();
-        Log.d("package_name ", package_name);
+        //Log.d("package_name ", package_name);
         resId = getResources().getIdentifier(resourceName, resourceType, package_name);
         return resId;
     }
