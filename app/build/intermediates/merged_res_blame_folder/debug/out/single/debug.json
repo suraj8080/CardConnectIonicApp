@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_url.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\dialog_url.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linear_layout_border.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable\\linear_layout_border.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background_rounded_corner.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable\\button_background_rounded_corner.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_container.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\app_bar_container.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_device.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\dialog_select_device.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fragment_spinner.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\dialog_fragment_spinner.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_swiper_test.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\activity_swiper_test.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_flow.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\activity_custom_flow.xml"
+    },
+    {
+        "merged": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_swiper_test.xml.flat",
+        "source": "F:\\Suraj Android Projects\\CardConnectIonicApp\\app\\src\\main\\res\\layout\\fragment_swiper_test.xml"
+    }
+]

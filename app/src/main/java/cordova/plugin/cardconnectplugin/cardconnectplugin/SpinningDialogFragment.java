@@ -4,6 +4,7 @@ import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -36,7 +37,7 @@ public class SpinningDialogFragment extends DialogFragment {
         getDialog().getWindow().requestFeature(Window.FEATURE_NO_TITLE);
         getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
 
-        ((ProgressBar)v.findViewById(R.id.progress)).getIndeterminateDrawable()
+        ((ProgressBar)v.findViewById(getResourceId("progress", "id"))).getIndeterminateDrawable()
                 .setColorFilter(ContextCompat.getColor(getContext(), R.color.colorAccent), PorterDuff.Mode.SRC_IN);
         return v;
     }
@@ -46,5 +47,14 @@ public class SpinningDialogFragment extends DialogFragment {
         super.onCreate(savedInstanceState);
         setShowsDialog(true);
         setCancelable(false);
+    }
+
+    public static int resId;
+    public int getResourceId(String resourceName, String resourceType){
+        // eg: getResources().getIdentifier("com.my.app:drawable/my_image", null, null); // another way
+        String package_name = getContext().getPackageName();
+        Log.d("package_name ", package_name);
+        resId = getResources().getIdentifier(resourceName, resourceType, package_name);
+        return resId;
     }
 }

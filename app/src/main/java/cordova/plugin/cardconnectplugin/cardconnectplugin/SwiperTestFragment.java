@@ -13,15 +13,18 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
+
 import com.bolt.consumersdk.domain.CCConsumerAccount;
 import com.bolt.consumersdk.domain.CCConsumerError;
 import com.bolt.consumersdk.swiper.CCSwiperController;
 import com.bolt.consumersdk.swiper.SwiperControllerListener;
 import com.bolt.consumersdk.swiper.enums.BatteryState;
 import com.bolt.consumersdk.swiper.enums.SwiperError;
+
 import io.ionic.starter.R;
 
 public class SwiperTestFragment extends BaseFragment {
@@ -52,9 +55,9 @@ public class SwiperTestFragment extends BaseFragment {
             throw new ClassCastException(activity.toString() + " must implement onSomeEventListener");
         }
         setupListeners();
-        mConnectionStateTextView = (TextView) v.findViewById(R.id.text_view_connection);
+        mConnectionStateTextView = (TextView) v.findViewById(getResourceId("text_view_connection", "id"));
         mConnectionStateTextView.setText("Attempting to Connect .");
-        mSwitchSwipeOrTap = (Switch) v.findViewById(R.id.fragment_swiper_test_switchSwipeORTap);
+        mSwitchSwipeOrTap = (Switch) v.findViewById(getResourceId("fragment_swiper_test_switchSwipeORTap", "id"));
         mSwitchSwipeOrTap.setOnCheckedChangeListener(mOnCheckedChangeListener);
         requestRecordAudioPermission();
         updateConnectionProgress();

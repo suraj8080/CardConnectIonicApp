@@ -1,309 +1,318 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:2:1-26:12
-MERGED from [com.google.android.material:material:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1a2231abea6c5c0eeac9ba2bee431bb2/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/5a88197cc409e98036d796508dba5496/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [:CordovaLib] /home/surajkumar/myApp/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-27:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/91da5248c1ab9082b2647158b4c6fb12/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/d45fea0da1c7be88ded5bb06d95a9f9d/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/80ba63a8187d9117e06ffe922b8d1e09/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/862d618c4a74a92713659a4de235cf27/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/76797c4c057edbfa73c24afedd30b782/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1749a0ce7607ce6aca7c0788718bbbda/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1b7f359adbfbd40184c2dbbf91f6411f/transition-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4ebe54eb21a46b11de1c8b6a98382879/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4316c9e9e14dde16bd0af0cff2b7f84d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2ded99d3d5abd0dc2e952828ff38685a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ff593eb994a251d8dac437ca978af2af/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/6c61fe4d7cb61834524be14a3e240790/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/9da2b99caf4161acc264c5b7c456ef74/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e75985f4058d660aa5c80167b45ff8ca/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e490a983018a8fe5e052ac1e6757d8cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/021054c48e76293de7da85dd4e6e3724/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/bbc9e02901b00dc5016df21c7d21b0fe/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4bc99f1b2ad8f2d66d51613c3a2c62b6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b8939781ced048a1fb4e2d944fa2aae9/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/8008323a081a55c8d30e79b17b1f2566/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ae74097148c08bdff7bea4d1d637dc7b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1be9dbcc62c36236b61cf6fa2fd00fc3/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/717503a52f9edadde65d4582b0de6ed5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b5f94b08bd83bda043bbd50468125e86/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b194165e6cb6e3bf344f1f61ed4fa83f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/367a660fa20cb00ec09dd86cb4f5513d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2095fef3b3cb6004da604f438865388a/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\9522fc4b4b45ce049e8dcb80a37b11ac\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\63b2029c6f19daa56f6251b8b04ccf8f\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:CordovaLib] F:\Suraj Android Projects\CardConnectIonicApp\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\50b31358220f7250ad57256c58bb5703\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ed7f083f911dc2947b38cf51f9b792a7\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\e68a9424254eee1a6f82adacf310ec71\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2b4db0bf0666c34b1bc523cf05e6404a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\d5bb0efb8b3d009fefe3defe317358db\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\4e4ce2f92372a4115a376822389ff956\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\600ccc6b1bc78eee0246cde67e4048bd\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f8ba508192e0973bb375e86a3e168321\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\6eeb12243c8e22a4e61b928e4c37fd3a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\59d1790b3fbcd217cc35245fb379e877\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ebd601384a41566a0ef92043bcca5bb0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2104d02cc9dd18389dbfcbded882498b\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\29ce8af8242f4e2c75faf4677b90a4ee\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\0d82c515694eaaf53e08f8707e16cdce\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a912b255fee194282b1b7f60e6b7b521\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f2e30f7a739886282e4b4ce5b4fd76a1\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\189f60d93dd7330eb3642d4203df078e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\229808383e537bf4d68a74f49d429050\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\78263ae851f59ba2ac7156803bcb6467\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\79c33b9d32c7a5b83766a23ddbe9bdfe\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3767bfdf888e88aa39f9b1d58f5bf959\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\830b1838a4b4d116cd678485e3289892\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\5b7e2a780c1b97f8610dfe5442e48034\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8e0c25e6f3abf580a2b1ee38a41b6c99\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8fb6f3edb4bffda69066004dc3e187d4\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8c684a6238dc3504852fa73d107ccfbf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a0a7e5a7c97140dbc2b4700dead990a3\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\b29844923501f178f92df21f4c79fd1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\aeb56deb030fa8c7bd2ef63bc3de3734\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3ca2b9be1e9cfaa124545ef6ffba6a2d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:98-124
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:70-97
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 	android:hardwareAccelerated
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:125-183
 	android:versionCode
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:46-69
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:5-191
 	android:largeScreens
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:49-76
 	android:smallScreens
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:132-159
 	android:normalScreens
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:77-105
 	android:xlargeScreens
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:160-188
 	android:resizeable
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:106-131
 	android:anyDensity
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:17:5-67
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:17:5-67
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:17:5-67
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from [com.google.android.material:material:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1a2231abea6c5c0eeac9ba2bee431bb2/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1a2231abea6c5c0eeac9ba2bee431bb2/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/021054c48e76293de7da85dd4e6e3724/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/021054c48e76293de7da85dd4e6e3724/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\9522fc4b4b45ce049e8dcb80a37b11ac\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\9522fc4b4b45ce049e8dcb80a37b11ac\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\79c33b9d32c7a5b83766a23ddbe9bdfe\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\79c33b9d32c7a5b83766a23ddbe9bdfe\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:310-336
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:310-336
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:88-120
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:88-120
 	android:maxSdkVersion
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:121-147
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:121-147
 	android:hardwareAccelerated
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-87
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:53-87
 	android:minSdkVersion
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:148-174
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:148-174
 	android:networkSecurityConfig
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:249-309
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:249-309
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:5:175-248
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:5:175-248
 activity#io.ionic.starter.MainActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:136-173
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:136-173
 	android:launchMode
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:174-204
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:174-204
 	android:windowSoftInputMode
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:296-338
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:296-338
 	android:configChanges
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-135
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:19-135
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:233-295
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:233-295
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:6:205-232
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:6:205-232
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:7:13-10:29
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:7:28-65
 action#android.intent.action.MAIN
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:8:17-69
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:8:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:9:17-77
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:9:27-74
 activity#cordova.plugin.cardconnectplugin.cardconnectplugin.CustomFlowActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:9-198
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:12:9-198
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:19-53
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:12:19-53
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:139-195
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:12:139-195
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:12:54-138
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:12:54-138
 activity#cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:9-18:20
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:13:9-18:20
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:13:19-47
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:127-183
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:13:127-183
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:13:48-126
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:13:48-126
 intent-filter#action:name:cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity+category:name:android.intent.category.DEFAULT
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:14:13-17:29
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:14:13-17:29
 action#cordova.plugin.cardconnectplugin.cardconnectplugin.MainActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:15:17-106
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:15:17-106
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:15:25-103
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:15:25-103
 category#android.intent.category.DEFAULT
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:16:27-73
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:16:27-73
 activity#cordova.plugin.cardconnectplugin.cardconnectplugin.SwiperTestActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:9-198
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:19:9-198
 	android:label
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:19-53
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:19:19-53
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:139-195
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:19:139-195
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:19:54-138
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:19:54-138
 activity#com.bolt.consumersdk.views.payment.accounts.PaymentAccountsActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:9-156
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:20:9-156
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:102-153
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:20:102-153
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:20:19-101
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:20:19-101
 activity#com.bolt.consumersdk.views.payment.createaccount.CreateAccountActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:9-159
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:21:9-159
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:105-156
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:21:105-156
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:21:19-104
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:21:19-104
 activity#com.bolt.consumersdk.views.payment.editaccount.EditAccountActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:9-155
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:22:9-155
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:101-152
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:22:101-152
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:22:19-100
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:22:19-100
 activity#com.bolt.consumersdk.androidpay.CConsumerConfirmationActivity
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:9-156
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:23:9-156
 	android:theme
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:96-153
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:23:96-153
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:23:19-95
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:23:19-95
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:25:5-68
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:19:5-68
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:19:5-68
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:25:5-68
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:19:5-68
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:25:22-65
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:25:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:26:5-74
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:20:5-74
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:20:5-74
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:26:5-74
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:20:5-74
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:20:5-74
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:26:22-71
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:26:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:27:5-79
+ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:27:22-76
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:27:22-76
 uses-sdk
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:7:5-9:41
-MERGED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.material:material:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1a2231abea6c5c0eeac9ba2bee431bb2/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1a2231abea6c5c0eeac9ba2bee431bb2/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/5a88197cc409e98036d796508dba5496/appcompat-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/5a88197cc409e98036d796508dba5496/appcompat-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [:CordovaLib] /home/surajkumar/myApp/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
-MERGED from [:CordovaLib] /home/surajkumar/myApp/platforms/android/CordovaLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/91da5248c1ab9082b2647158b4c6fb12/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/91da5248c1ab9082b2647158b4c6fb12/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/d45fea0da1c7be88ded5bb06d95a9f9d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/d45fea0da1c7be88ded5bb06d95a9f9d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/80ba63a8187d9117e06ffe922b8d1e09/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/80ba63a8187d9117e06ffe922b8d1e09/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/862d618c4a74a92713659a4de235cf27/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/862d618c4a74a92713659a4de235cf27/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/76797c4c057edbfa73c24afedd30b782/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/76797c4c057edbfa73c24afedd30b782/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1749a0ce7607ce6aca7c0788718bbbda/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1749a0ce7607ce6aca7c0788718bbbda/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1b7f359adbfbd40184c2dbbf91f6411f/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1b7f359adbfbd40184c2dbbf91f6411f/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4ebe54eb21a46b11de1c8b6a98382879/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4ebe54eb21a46b11de1c8b6a98382879/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4316c9e9e14dde16bd0af0cff2b7f84d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4316c9e9e14dde16bd0af0cff2b7f84d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2ded99d3d5abd0dc2e952828ff38685a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2ded99d3d5abd0dc2e952828ff38685a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ff593eb994a251d8dac437ca978af2af/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ff593eb994a251d8dac437ca978af2af/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/6c61fe4d7cb61834524be14a3e240790/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/6c61fe4d7cb61834524be14a3e240790/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/9da2b99caf4161acc264c5b7c456ef74/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/9da2b99caf4161acc264c5b7c456ef74/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e75985f4058d660aa5c80167b45ff8ca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e75985f4058d660aa5c80167b45ff8ca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e490a983018a8fe5e052ac1e6757d8cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/e490a983018a8fe5e052ac1e6757d8cf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/06295a3ddc444eb6c7b8173c1cfffd52/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/021054c48e76293de7da85dd4e6e3724/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/021054c48e76293de7da85dd4e6e3724/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/bbc9e02901b00dc5016df21c7d21b0fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/bbc9e02901b00dc5016df21c7d21b0fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4bc99f1b2ad8f2d66d51613c3a2c62b6/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/4bc99f1b2ad8f2d66d51613c3a2c62b6/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b8939781ced048a1fb4e2d944fa2aae9/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b8939781ced048a1fb4e2d944fa2aae9/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/8008323a081a55c8d30e79b17b1f2566/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/8008323a081a55c8d30e79b17b1f2566/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ae74097148c08bdff7bea4d1d637dc7b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/ae74097148c08bdff7bea4d1d637dc7b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1be9dbcc62c36236b61cf6fa2fd00fc3/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/1be9dbcc62c36236b61cf6fa2fd00fc3/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/717503a52f9edadde65d4582b0de6ed5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/717503a52f9edadde65d4582b0de6ed5/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b5f94b08bd83bda043bbd50468125e86/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b5f94b08bd83bda043bbd50468125e86/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b194165e6cb6e3bf344f1f61ed4fa83f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/b194165e6cb6e3bf344f1f61ed4fa83f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/367a660fa20cb00ec09dd86cb4f5513d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/367a660fa20cb00ec09dd86cb4f5513d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2095fef3b3cb6004da604f438865388a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/2095fef3b3cb6004da604f438865388a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:7:5-9:41
+MERGED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\9522fc4b4b45ce049e8dcb80a37b11ac\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\9522fc4b4b45ce049e8dcb80a37b11ac\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\63b2029c6f19daa56f6251b8b04ccf8f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\63b2029c6f19daa56f6251b8b04ccf8f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:CordovaLib] F:\Suraj Android Projects\CardConnectIonicApp\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] F:\Suraj Android Projects\CardConnectIonicApp\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\50b31358220f7250ad57256c58bb5703\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\50b31358220f7250ad57256c58bb5703\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ed7f083f911dc2947b38cf51f9b792a7\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ed7f083f911dc2947b38cf51f9b792a7\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\e68a9424254eee1a6f82adacf310ec71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\e68a9424254eee1a6f82adacf310ec71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2b4db0bf0666c34b1bc523cf05e6404a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2b4db0bf0666c34b1bc523cf05e6404a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\d5bb0efb8b3d009fefe3defe317358db\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\d5bb0efb8b3d009fefe3defe317358db\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\4e4ce2f92372a4115a376822389ff956\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\4e4ce2f92372a4115a376822389ff956\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\600ccc6b1bc78eee0246cde67e4048bd\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\600ccc6b1bc78eee0246cde67e4048bd\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f8ba508192e0973bb375e86a3e168321\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f8ba508192e0973bb375e86a3e168321\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\6eeb12243c8e22a4e61b928e4c37fd3a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\6eeb12243c8e22a4e61b928e4c37fd3a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\59d1790b3fbcd217cc35245fb379e877\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\59d1790b3fbcd217cc35245fb379e877\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ebd601384a41566a0ef92043bcca5bb0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\ebd601384a41566a0ef92043bcca5bb0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2104d02cc9dd18389dbfcbded882498b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\2104d02cc9dd18389dbfcbded882498b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\29ce8af8242f4e2c75faf4677b90a4ee\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\29ce8af8242f4e2c75faf4677b90a4ee\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\0d82c515694eaaf53e08f8707e16cdce\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\0d82c515694eaaf53e08f8707e16cdce\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a912b255fee194282b1b7f60e6b7b521\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a912b255fee194282b1b7f60e6b7b521\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f2e30f7a739886282e4b4ce5b4fd76a1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\f2e30f7a739886282e4b4ce5b4fd76a1\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\189f60d93dd7330eb3642d4203df078e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\189f60d93dd7330eb3642d4203df078e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3716c6ad725da5d60e18f523875c9a5f\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\229808383e537bf4d68a74f49d429050\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\229808383e537bf4d68a74f49d429050\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\78263ae851f59ba2ac7156803bcb6467\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\78263ae851f59ba2ac7156803bcb6467\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\79c33b9d32c7a5b83766a23ddbe9bdfe\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\79c33b9d32c7a5b83766a23ddbe9bdfe\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3767bfdf888e88aa39f9b1d58f5bf959\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3767bfdf888e88aa39f9b1d58f5bf959\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\830b1838a4b4d116cd678485e3289892\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\830b1838a4b4d116cd678485e3289892\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\5b7e2a780c1b97f8610dfe5442e48034\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\5b7e2a780c1b97f8610dfe5442e48034\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8e0c25e6f3abf580a2b1ee38a41b6c99\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8e0c25e6f3abf580a2b1ee38a41b6c99\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8fb6f3edb4bffda69066004dc3e187d4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8fb6f3edb4bffda69066004dc3e187d4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8c684a6238dc3504852fa73d107ccfbf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\8c684a6238dc3504852fa73d107ccfbf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a0a7e5a7c97140dbc2b4700dead990a3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\a0a7e5a7c97140dbc2b4700dead990a3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\b29844923501f178f92df21f4c79fd1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\b29844923501f178f92df21f4c79fd1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\aeb56deb030fa8c7bd2ef63bc3de3734\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\aeb56deb030fa8c7bd2ef63bc3de3734\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3ca2b9be1e9cfaa124545ef6ffba6a2d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\3ca2b9be1e9cfaa124545ef6ffba6a2d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:5-71
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:11:5-71
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:11:22-68
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:11:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:5-80
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:12:22-77
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:15:5-84
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:15:5-84
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:15:22-81
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:15:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:16:5-81
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:16:22-78
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:18:5-79
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:18:22-76
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:18:22-76
 uses-feature#android.hardware.usb.host
-ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:22:5-24:36
+ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:22:5-24:36
 	android:required
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:24:9-33
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:24:9-33
 	android:name
-		ADDED from [boltsdk-release.aar] /home/surajkumar/.gradle/caches/transforms-2/files-2.1/a3f969cc6c4d08eab02cb4fb76785cdf/jetified-boltsdk-release/AndroidManifest.xml:23:9-49
+		ADDED from [boltsdk-release.aar] C:\Users\suraj kumar singh\.gradle\caches\transforms-2\files-2.1\492a127323d1e4323b2981f22ad565d9\jetified-boltsdk-release\AndroidManifest.xml:23:9-49
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/surajkumar/myApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-28:12 reason: com.bolt.ccconsumersdk requested WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\Suraj Android Projects\CardConnectIonicApp\app\src\main\AndroidManifest.xml:2:1-28:12 reason: com.bolt.ccconsumersdk requested WRITE_EXTERNAL_STORAGE
